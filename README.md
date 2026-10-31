@@ -7,6 +7,7 @@ The hardware is very simple. It uses a ESP32 dev module, which can connect to bl
 <img width="947" height="443" alt="Screenshot 2026-10-31 at 2 45 45 PM" src="https://github.com/user-attachments/assets/d5f77746-6358-495b-8377-c74578871aac" />
 
 And here is the pcb for it:
+
 <img width="555" height="681" alt="Screenshot 2026-10-31 at 2 46 12 PM" src="https://github.com/user-attachments/assets/52f57d96-fb58-466b-9079-472743b3ab91" />
 
 
